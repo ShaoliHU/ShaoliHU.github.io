@@ -16,10 +16,10 @@
 </div>
 </div>
 
+## 🔋 Fault diagnosis
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIE 2024</div><img src='images/battery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-## 🔋 Fault diagnosis
 
 [Review of Fault Diagnosis based Protection Mechanisms for Battery Energy Storage Systems](https://ieeexplore.ieee.org/document/10595828) \\
 Solomon N. Adasah, Ziqi Wang, **Shaoli Hu**, Skieler Capezza, Junya Shao, Mo-Yuen Chow
