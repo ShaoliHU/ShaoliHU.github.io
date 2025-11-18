@@ -19,9 +19,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Demo</div><img src='images/battery-sandbox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Battery Sandbox Demo – Fault Simulation and Communication Design**
+**Battery Sandbox Demo – Fault Simulation and Communication Design (Collaboration with
+Siemens)**
 
-[**Video**](https://youtu.be/) 
+<!-- [**Video**](https://youtu.be/)  -->
 
 - Showcases fault simulation and diagnosis in battery energy storage systems.
 - Demonstrates multi-agent communication protocols for system monitoring.
@@ -34,7 +35,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robot</div><img src='images/underwater-robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Underwater Recovery Robot – Mechanical Design and Algorithm Implementation**
+**Underwater Recovery Robot – Mechanical Design and Algorithm Implementatio (Student National Innovation Project)**
 
 [**Video 1**](https://youtu.be/3F89DaA1aV4) \| [**Video 2**](https://youtu.be/-eIM65b01xI) 
 

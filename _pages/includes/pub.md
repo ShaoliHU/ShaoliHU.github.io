@@ -2,6 +2,7 @@
 # 📝 Publications 
 
 ## 🤖 Multi-Agent Path Finding & Robotics
+🔍 Currently exploring *better, more adaptive algorithms* for dynamic environments — thesis as a springboard, not a conclusion.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRS 2025</div><img src='images/cbspp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -9,7 +10,7 @@
 [Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles (poster paper)](http://arxiv.org/abs/2509.26050) \\
 **Shaoli Hu**, Shizhe Zhao, Zhongqiang Ren
 
-[**Paper**](http://arxiv.org/abs/2509.26050) \| [**Video**](https://youtu.be/3klqUG0ud-4) <strong><span class='show_paper_citations' data='ShaoliHU'></span></strong>
+[**Paper**](http://arxiv.org/abs/2509.26050) \| [**Video**](https://youtu.be/ycAmR06JI0I) <strong><span class='show_paper_citations' data='ShaoliHU'></span></strong>
 
 - Proposes a novel approach combining Conflict-Based Search (CBS) with Prioritized Planning for multi-agent path finding in dynamic environments with movable obstacles.
 - Addresses the challenge of coordinating multiple agents while handling environmental constraints.
@@ -60,3 +61,5 @@ Chen Chen, Hangbin Cao, Jun Liu, **Shaoli Hu**, Jingyu Ru, Hongli Xu
 - Combines improved binarization and edge detection methods for enhanced accuracy.
 </div>
 </div>
+
+

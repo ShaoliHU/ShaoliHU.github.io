@@ -6,4 +6,6 @@
 
 
 # 🧑‍💼 Internships
+- *2024.12 - 2025.03*, Ronovo Surgical.
+- *2023.04 - 2023.09*, XbotPark.
 
