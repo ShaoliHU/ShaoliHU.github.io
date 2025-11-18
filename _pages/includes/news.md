@@ -1,2 +1,2 @@
 # 🔥 News
-I am currently a third-year master’s student at Shanghai Jiao Tong University (SJTU), seeking a Ph.D. position to start in Fall 2026. My research interests lie at the intersection of Robotics, Multi-Agent Path Finding, and large language models—particularly in grounding language in spatial understanding, robotic manipulation, and the development of world models for embodied AI systems.
+I am currently a third-year master’s student at Shanghai Jiao Tong University (SJTU), seeking a Ph.D. position to start in Fall 2026. 

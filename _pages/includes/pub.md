@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRS 2025</div><img src='images/cbspp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles](http://arxiv.org/abs/2509.26050) \\
+[Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles (poster paper)](http://arxiv.org/abs/2509.26050) \\
 **Shaoli Hu**, Shizhe Zhao, Zhongqiang Ren
 
 [**Paper**](http://arxiv.org/abs/2509.26050) <strong><span class='show_paper_citations' data='ShaoliHU'></span></strong>
@@ -19,7 +19,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISIE 2024</div><img src='images/battery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-##🔋 Fault diagnosis
+## 🔋 Fault diagnosis
 
 [Review of Fault Diagnosis based Protection Mechanisms for Battery Energy Storage Systems](https://ieeexplore.ieee.org/document/10595828) \\
 Solomon N. Adasah, Ziqi Wang, **Shaoli Hu**, Skieler Capezza, Junya Shao, Mo-Yuen Chow
