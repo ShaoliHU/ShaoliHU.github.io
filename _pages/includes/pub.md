@@ -12,7 +12,7 @@
 
 [**Paper**](http://arxiv.org/abs/2509.26050) \| [**Video**](https://youtu.be/ycAmR06JI0I) <strong><span class='show_paper_citations' data='ShaoliHU'></span></strong>
 
-- Proposes a novel approach combining Conflict-Based Search (CBS) with Prioritized Planning for multi-agent path finding in dynamic environments with movable obstacles.
+- Proposes a series of approaches combining Conflict-Based Search (CBS) with Prioritized Planning for multi-agent path finding in dynamic environments with movable obstacles.
 - Addresses the challenge of coordinating multiple agents while handling environmental constraints.
 </div>
 </div>
