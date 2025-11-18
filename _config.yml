@@ -24,12 +24,12 @@ author:
   name             : "Shaoli Hu (Shelley)"
   avatar           : "images/sl_profile.png"
   bio              : "Master student at Shanghai Jiao Tong University."
+  cv_link          : assets/files/Shaoli_Hu_CV.pdf
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : shaolihu321@gmail.com"
-  cv_link          : assets/files/Shaoli_Hu_CV.pdf
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
