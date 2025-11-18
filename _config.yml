@@ -23,12 +23,13 @@ repository               : "ShaoliHU/ShaoliHU.github.io"
 author:
   name             : "Shaoli Hu (Shelley)"
   avatar           : "images/sl_profile.png"
-  bio              : "Master student at the UM-SJTU Joint Institute, Shanghai Jiao Tong University."
+  bio              : "Master student at Shanghai Jiao Tong University."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : shaolihu321@gmail.com"
+  cv_link          : assets/files/Shaoli_Hu_CV.pdf
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
