@@ -4,7 +4,7 @@
 ## 🤖 Multi-Agent Path Finding & Robotics
 🔍 Currently exploring *better, more adaptive algorithms* for dynamic environments — thesis as a springboard, not a conclusion.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRS 2025</div><img src='images/cbspp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://www.sutd.edu.sg/mrs2025/programme">MRS 2025</a></div><img src='images/cbspp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles (poster paper)](http://arxiv.org/abs/2509.26050) \\
