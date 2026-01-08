@@ -19,6 +19,7 @@
 - Third Prize, Network Technology Challenge Competition — *2023*
 
 ## Honors and Titles
+- Outstanding Graduate of Shanghai Jiao Tong University - *2026*
 - Merit Student of Shanghai Jiao Tong University (top 3%) — *2024, 2025*
 - Outstanding Graduate of Northeastern University (top 4%) — *2023*
 - Outstanding Participant, NingBo XbotPark — *2023*
