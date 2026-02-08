@@ -35,7 +35,7 @@ Siemens)**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robot</div><img src='images/underwater-robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Underwater Recovery Robot – Mechanical Design and Algorithm Implementatio (Student National Innovation Project)**
+**Underwater Recovery Robot – Mechanical Design and Algorithm Implementatio (National College Student Innovation Training Program (National-Level))**
 
 [**Video 1**](https://youtu.be/3F89DaA1aV4) \| [**Video 2**](https://youtu.be/-eIM65b01xI) 
 
