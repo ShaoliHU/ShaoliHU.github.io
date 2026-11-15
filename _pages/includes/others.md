@@ -1,11 +1,16 @@
 
 # 🎒 Educations
+- *2026.08 - Present*, Ph.D. in Hong Kong University of Science and Technology
 - *2023.09 - 2026.03*, M.S. in Control Science and Engineering, Shanghai Jiao Tong University
 - *2019.09 - 2023.06*, B.S. in Robotics Engineering, Northeastern University
-- *2021.05 - 2021.08*, Lecture Program about Humanities and Social Sciences, Osaka University
+- *2021.05 - 2021.08*, Lecture Program, Osaka University
 
 
 # 🧑‍💼 Internships
+- *2026.03 - 2026.08*, INTSIG.
 - *2024.12 - 2025.03*, Ronovo Surgical.
 - *2023.04 - 2023.09*, XbotPark.
+
+# 📷 Hobbies
+Badminton · Tennis · Hiking · Baking · Travel · Murder Mystery Games
 

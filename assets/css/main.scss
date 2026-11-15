@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+// Compact text-only publication list.
+.publication-entry {
+    margin: 0 0 1.5em;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+}
+.publication-title { font-size: 1.05em; }
+.publication-authors, .publication-venue { color: #555; }
+.publication-links a { text-decoration: none; }
+.publication-links a:hover { text-decoration: underline; }

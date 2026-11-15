@@ -1,2 +1,1 @@
 # 🔥 News
-I am seeking a Ph.D. position to start in Fall 2026. If my background aligns with your research, I would be grateful for the opportunity to discuss further. My CV is attached for your reference. 
