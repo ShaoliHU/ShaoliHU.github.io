@@ -25,10 +25,10 @@ author:
   avatar           : "images/sl_profile.png"
   bio              : "PhD student at HKUST. Embodied AI and agentic robotics."
   cv_link          : assets/files/Shaoli_Hu_CV.pdf
-  location         : "Shanghai, China"
+  location         : "Clear Water Bay, Hong Kong SAR / Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=sJ3rP7EAAAAJ&sortby=pubdate"
   email            : shaolihu321@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

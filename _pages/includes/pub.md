@@ -1,5 +1,7 @@
 # 📝 Publications
 
+<p class="publication-legend"><em><sup>*</sup> Equal contribution, <sup>†</sup> Project leader, <sup>‡</sup> Corresponding author</em></p>
+
 ## 2026
 
 <div class="publication-entry">
@@ -11,15 +13,15 @@
 
 <div class="publication-entry">
   <div class="publication-title"><strong>RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments</strong></div>
-  <div class="publication-authors">Zhiqin Yang, Chenxin Li, Xiaomeng Hu, Yibin Liu, Weidong Huang, Jiankai Sun, Haitao Li, Zijian Wu, Yuzhi Huang, Fanding Huang, Hanwen Sun, Jiashun Liu, Jingqi Tong, Mingxin Huang, <strong>Shaoli Hu</strong>, Shijue Huang, Tianyi Bai, Xinyuan Wang, Yunlong Lin, Zhengyang Tang, Zhexin Zhang, Zhuo Chen, Xierui Song, Juntao Dai, Boyuan Chen, Jiaming Ji, Fangneng Zhan, Mengkang Hu, Wei Xue, Yonggang Zhang, Han Hu, Tsung-Yi Ho, Yike Guo</div>
-  <div class="publication-venue"><em>arXiv preprint · 2026</em></div>
-  <div class="publication-links">[<a href="https://arxiv.org/abs/2610.10409">Paper</a>]</div>
+  <div class="publication-authors">Zhiqin Yang<sup>*</sup>, Chenxin Li<sup>*†</sup>, Xiaomeng Hu<sup>*†</sup>, Yibin Liu, Weidong Huang, Jiankai Sun, Haitao Li, Zijian Wu, Yuzhi Huang, Fanding Huang, Hanwen Sun, Jiashun Liu, Jingqi Tong, Mingxin Huang, <strong>Shaoli Hu</strong>, Shijue Huang, Tianyi Bai, Xinyuan Wang, Yunlong Lin, Zhengyang Tang, Zhexin Zhang, Zhuo Chen, Xierui Song, Juntao Dai, Boyuan Chen, Jiaming Ji, Fangneng Zhan, Mengkang Hu, Wei Xue, Yonggang Zhang, Han Hu, Tsung-Yi Ho, Yike Guo</div>
+  <div class="publication-venue"><em>CVPR 2027 submission · 2026</em></div>
+  <div class="publication-links">[<a href="https://robotworldai.github.io/">Project</a>] [<a href="https://arxiv.org/abs/2610.10409">Paper</a>] [<a href="https://github.com/robotworldai/robotworld">Code</a>]</div>
 </div>
 
 <div class="publication-entry">
   <div class="publication-title"><strong>Frame Differential On-Policy Self-Distillation for Video Reasoning</strong></div>
   <div class="publication-authors">Haiying He, Xin Zheng, <strong>Shaoli Hu</strong>, Shijun Xiao, Xuanhe Liu, Bing Li, Harry Yang</div>
-  <div class="publication-venue"><em>arXiv preprint · 2026</em></div>
+  <div class="publication-venue"><em>ICLR 2027 submission · 2026</em></div>
   <div class="publication-links">[<a href="https://arxiv.org/abs/2609.39021">Paper</a>]</div>
 </div>
 
