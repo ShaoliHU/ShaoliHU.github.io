@@ -28,8 +28,8 @@
 <div class="publication-entry">
   <div class="publication-title"><strong>Conflict-Based Search for Multi-Agent Path Finding Among Movable Obstacles</strong></div>
   <div class="publication-authors"><strong>Shaoli Hu</strong>, Shizhe Zhao, Zhongqiang Ren</div>
-  <div class="publication-venue"><em>ISRR 2026</em></div>
-  <div class="publication-links">[<a href="https://rap-lab.github.io/publications/">Publication record</a>] [<a href="https://isrr2026.su.domains/program/">Conference</a>]</div>
+  <div class="publication-venue"><em>Proceedings of the International Symposium of Robotics Research (ISRR), 2026.</em></div>
+  <div class="publication-links">[<a href="https://rap-lab.github.io/documents/publications/2026_ISRR_MPAMO_CBS_ShaoliHu.pdf">Paper</a>]</div>
 </div>
 
 ## 2025
@@ -37,7 +37,7 @@
 <div class="publication-entry">
   <div class="publication-title"><strong>Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles</strong></div>
   <div class="publication-authors"><strong>Shaoli Hu</strong>, Shizhe Zhao, Zhongqiang Ren</div>
-  <div class="publication-venue"><em>MRS 2025 · Poster paper</em></div>
+  <div class="publication-venue"><em>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS), 2025 · Poster paper</em></div>
   <div class="publication-links">[<a href="https://www.sutd.edu.sg/mrs2025/programme">Conference</a>] [<a href="http://arxiv.org/abs/2509.26050">Paper</a>] [<a href="https://youtu.be/ycAmR06JI0I">Video</a>]</div>
 </div>
 
@@ -46,7 +46,7 @@
 <div class="publication-entry">
   <div class="publication-title"><strong>Review of Fault Diagnosis based Protection Mechanisms for Battery Energy Storage Systems</strong></div>
   <div class="publication-authors">Solomon N. Adasah, Ziqi Wang, <strong>Shaoli Hu</strong>, Skieler Capezza, Junya Shao, Mo-Yuen Chow</div>
-  <div class="publication-venue"><em>ISIE 2024</em></div>
+  <div class="publication-venue"><em>International Symposium on Industrial Electronics (ISIE), 2024</em></div>
   <div class="publication-links">[<a href="https://ieeexplore.ieee.org/document/10595828">Paper</a>]</div>
 </div>
 
@@ -55,13 +55,13 @@
 <div class="publication-entry">
   <div class="publication-title"><strong>UAV Formation Obstacle Avoidance Based on Improved Consistency Algorithm</strong></div>
   <div class="publication-authors"><strong>Shaoli Hu</strong>, Jiankai Tang, Chen Chen, Hongli Xu, Shuai Wang</div>
-  <div class="publication-venue"><em>ICCASIT 2022</em></div>
+  <div class="publication-venue"><em>International Conference on Civil Aviation Safety and Information Technology (ICCASIT), 2022</em></div>
   <div class="publication-links">[<a href="https://ieeexplore.ieee.org/document/9986809">Paper</a>]</div>
 </div>
 
 <div class="publication-entry">
   <div class="publication-title"><strong>Sub-pixel Underwater Object Size Measurement Algorithm Based on Improved Otsu Binarization and Edge Curvature Filtering</strong></div>
   <div class="publication-authors">Chen Chen, Hangbin Cao, Jun Liu, <strong>Shaoli Hu</strong>, Jingyu Ru, Hongli Xu</div>
-  <div class="publication-venue"><em>IDITR 2022</em></div>
+  <div class="publication-venue"><em>International Conference on Innovations and Development of Information Technologies and Robotics (IDITR), 2022</em></div>
   <div class="publication-links">[<a href="https://ieeexplore.ieee.org/document/9796503">Paper</a>]</div>
 </div>
