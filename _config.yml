@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaoli Hu (Shelley)"
-description              : "simple life & interesting work"
+# description              : simple life & interesting work"
 # repository               : "ShaoliHU/ShaoliHU.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shaoli Hu (Shelley)"
   avatar           : "images/sl_profile.png"
   bio              : "PhD student at HKUST. Embodied AI and agentic robotics."
-  cv_link          : assets/files/Shaoli_Hu_CV.pdf
+  # cv_link          : assets/files/Shaoli_Hu_CV.pdf
   location         : "Clear Water Bay, Hong Kong SAR / Shenzhen, China"
   employer         :
   pubmed           : 
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : "shaoli-hu-805721336"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
-  orcid            : #"https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0009-0001-1691-4793"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
