@@ -6,11 +6,11 @@ Ph.D. student · Aug. 2026 – Present<br>
 
 **Shanghai Jiao Tong University (SJTU)**<br>
 M.S. in Control Science and Engineering · Sept. 2023 – Mar. 2026<br>
-[RAP Lab](https://rap-lab.github.io/) · Advisor: [Prof. Zhongqiang (Richard) Ren](https://rap-lab.github.io/team/zren/)
+[RAP Lab](https://rap-lab.github.io/) · Supervisor: [Prof. Zhongqiang (Richard) Ren](https://rap-lab.github.io/team/zren/)
 
 **Northeastern University (NEU)**<br>
 B.S. in Robotics Engineering · Sept. 2019 – June 2023<br>
-Ocean Heart Lab · Advisor: [Prof. Hongli Xu](http://www.rse.neu.edu.cn/2022/0304/c2263a210401/page.htm)
+Ocean Heart Lab · Supervisor: [Prof. Hongli Xu](http://www.rse.neu.edu.cn/2022/0304/c2263a210401/page.htm)
 
 **Osaka University**<br>
 Lecture Program · May 2021 – Aug. 2021
