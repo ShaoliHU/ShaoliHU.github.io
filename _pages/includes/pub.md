@@ -5,10 +5,10 @@
 ## 2026
 
 <div class="publication-entry">
-  <div class="publication-title"><strong>RoboTeam: Benchmarking Multi-Agent Control of Many Robot Arms on Long-Horizon Tasks</strong></div>
+  <div class="publication-title"><strong>RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time</strong></div>
   <div class="publication-authors">Changxuan Fan, Zhongwei Xie, Boyi Zhang, <strong>Shaoli Hu</strong>, Chang Xu, Xiyu Ren, Qiao Xiao, Huihao Jing, Kawai Chung, Yufei Li, Wenbin Hu, Hongyu Luo, Lingyun Xie, Yisen Gao, Chunyang Li, Haoyu Huang, Wuganjing Song, Yuxuan Liu, Chiu Yeung Tang, Fangneng Zhan, Xi Yang</div>
   <div class="publication-venue"><em>2026</em></div>
-  <div class="publication-links">[<a href="https://changxuanfan.github.io/RoboFrontier/">Project</a>] [<a href="https://github.com/changxuanfan/RoboFrontier">Code</a>]</div>
+  <div class="publication-links">[<a href="https://changxuanfan.github.io/RoboTeam/">Project</a>] [<a href="https://github.com/changxuanfan/RoboTeam">Code</a>]</div>
 </div>
 
 <div class="publication-entry">
@@ -28,7 +28,7 @@
 <div class="publication-entry">
   <div class="publication-title"><strong>Conflict-Based Search for Multi-Agent Path Finding Among Movable Obstacles</strong></div>
   <div class="publication-authors"><strong>Shaoli Hu</strong>, Shizhe Zhao, Zhongqiang Ren</div>
-  <div class="publication-venue"><em>Proceedings of the International Symposium of Robotics Research (ISRR), 2026.</em></div>
+  <div class="publication-venue"><em>Proceedings of the International Symposium of Robotics Research (ISRR), 2026</em></div>
   <div class="publication-links">[<a href="https://rap-lab.github.io/documents/publications/2026_ISRR_MPAMO_CBS_ShaoliHu.pdf">Paper</a>]</div>
 </div>
 
